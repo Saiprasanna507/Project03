@@ -8,7 +8,7 @@ def reverse(num):
 
 def isPalindrome(num):
     return num==reverse(num)
-print(reverse(1239))
+print(reverse(1233))
 print(isPalindrome(123))
 print(reverse(121))
 print(isPalindrome(121))
