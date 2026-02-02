@@ -1,1 +1,7 @@
-hiii
+
+
+
+story 13
+l=10
+m=20
+k=l+m
